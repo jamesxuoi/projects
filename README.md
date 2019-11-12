@@ -17,6 +17,8 @@ Financial data analysis and visualisations @ KPMG
 
 E-commerce Web Analytics @ TIKI
 
+Web scrapping for Data Science Jobs @ Twitter  
+
 
 
 
