@@ -1,7 +1,7 @@
 # Welcome to James' Projects Repository
 
 ## Repository's Description
-This repository is mainly used to store my most recent Data Science projects from work including internship, volunteering works as well as Hackathon competitions' projects.
+This repository is mainly used to store my most recent Data Science projects from work including internship, volunteering works as well as Hackathon projects.
 
 
 ## Projects
