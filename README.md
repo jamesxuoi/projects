@@ -9,7 +9,7 @@ This repository is mainly used to store my most recent Data Science projects fro
 
 [Renewable Energy Forecasting with IoT  @ Kaggle](https://github.com/jamesxuoi/projects/tree/master/projects/Kaggle/Renewable%20Energy%20Forecasting%20w%20IoT)
 
-2019 Hackathon Competition @ GovHack Australia
+AI App that connects organisations and skilled workers @ 2019 GovHack Australia - Comming soon
 
 [Development plan for ATMs @ ANZ](https://github.com/jamesxuoi/projects/tree/master/projects/ANZ%20development%20plan%20for%20ATMs)
 
