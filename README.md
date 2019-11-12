@@ -1,14 +1,24 @@
-# Welcome to 'My Project' Repository
+# Welcome to James' Projects Repository
 
-Welcome to GitHub—where millions of developers work together on software. Ready to get started? Let’s learn how this all works by building and publishing your first GitHub Pages website!
+## Repository's Description
+This repository is mainly used to store my most recent Data Science projects from work including internship, volunteering works as well as Hackathon competitions' projects.
 
-## Repositories
 
-Right now, we’re in your first GitHub **repository**. A repository is like a folder or storage space for your project. Your project's repository contains all its files such as code, documentation, images, and more. It also tracks every change that you—or your collaborators—make to each file, so you can always go back to previous versions of your project if you make any mistakes.
+## Projects
+Natual Language Processing - Text Analysis and Classification for online reviews @ Amazon
 
-This repository contains three important files: The HTML code for your first website on GitHub, the CSS stylesheet that decorates your website with colors and fonts, and the **README** file. It also contains an image folder, with one image file.
+Renewable Energy Forecasting with IoT  @ Kaggle
 
-## Describe your project
+2019 Hackathon Competition @ GovHack Australia
+
+Development plan for ATMs @ ANZ
+
+Financial data analysis and visualisations @ KPMG
+
+E-commerce Web Analytics @ TIKI
+
+
+
 
 You are currently viewing your project's **README** file. **_README_** files are like cover pages or elevator pitches for your project. They are written in plain text or [Markdown language](https://guides.github.com/features/mastering-markdown/), and usually include a paragraph describing the project, directions on how to use it, who authored it, and more.
 
