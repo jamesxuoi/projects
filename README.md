@@ -15,6 +15,6 @@ This repository is mainly used to store my most recent Data Science projects fro
 
 [Financial data analysis and visualisations @ KPMG](https://github.com/jamesxuoi/projects/tree/master/projects/KPMG)
 
-E-commerce Web Analytics @ TIKI
+[E-commerce Web Analytics @ TIKI](https://github.com/jamesxuoi/projects/tree/master/projects/TIKI)
 
 [Web scrapping for Data Science Jobs @ Twitter](https://github.com/jamesxuoi/projects/tree/master/projects/Institute%20of%20Data/Twitter%20Web%20Scapping)
