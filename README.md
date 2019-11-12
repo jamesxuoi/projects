@@ -1,7 +1,8 @@
 # Welcome to James' Projects Repository
+Hello, my name is [James Xuoi](https://www.linkedin.com/in/james-xuoi/). I'm recently a Data Analyst @ ANZ and currently upskilling to take my career into the level, which is to become a Data Scientist.
 
 ## Repository's Description
-This repository is mainly used to store my most recent Data Science projects from work including internship, volunteering works as well as Hackathon projects.
+This public repository is mainly used to store my most recent Data Science projects from work including internship, volunteering works as well as Hackathon projects.
 
 
 ## Projects
