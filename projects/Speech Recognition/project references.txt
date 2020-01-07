@@ -1,0 +1,20 @@
+kaggle solutions:
+https://www.kaggle.com/c/tensorflow-speech-recognition-challenge/data
+
+Kaggle:
+EDA: load and eda https://www.kaggle.com/tduan007/voice-recognition
+Visualisation: https://www.kaggle.com/davids1992/speech-representation-and-data-exploration
+85%: https://www.kaggle.com/chimichangasguy/speechrecognition
+91%: https://www.kaggle.com/kunal1952/speech-to-text-model-in-python
+
+Speech comands Tensorflow tutorial (Github)
+https://github.com/tensorflow/tensorflow/blob/master/tensorflow/examples/speech_commands/train.py
+
+TensorFlow Speech Recognition Challenge
+https://towardsdatascience.com/tensorflow-speech-recognition-challenge-solution-outline-9c42dbd219c9
+
+Youtube: Seth's p1-p8
+https://www.youtube.com/watch?v=-GddLd2_0ok&list=PLhA3b2k8R3t2Ng1WW_7MiXeh1pfQJQi_P&index=2
+
+Feature Extraction and Explaination:
+https://towardsdatascience.com/how-i-understood-what-features-to-consider-while-training-audio-files-eedfb6e9002b
