@@ -39,7 +39,7 @@ This project will help you to understand and get skilled at image processing and
 
 ### [Slack Messages scraping](https://github.com/jamesxuoi/projects/blob/master/images/post-2.jpg)
 
-![Slack](https://github.com/jamesxuoi/projects/blob/master/images/amazonratingstar.gif)
+![Slack](https://github.com/jamesxuoi/projects/blob/master/images/post-2.jpg)
 
 ### [Twitter Web scraping](https://github.com/jamesxuoi/projects/tree/master/projects/Institute%20of%20Data/Twitter%20Web%20Scapping)
 
