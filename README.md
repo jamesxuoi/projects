@@ -22,7 +22,9 @@ This project will help you to understand and get skilled at image processing and
 
 ![TinyML](https://github.com/jamesxuoi/projects/blob/master/images/speech%20recognition.gif)
 
-### [Natual Language Processing -  Converting Amazon Reviews into Rating Stars](https://github.com/jamesxuoi/projects/blob/master/images/amazonratingstar.gif)
+### [Natual Language Processing -  Converting Amazon Reviews into Rating Stars](https://github.com/jamesxuoi/projects/tree/master/projects/Amazon%20Online%20Reviews%20Analysis%20and%20Classification)
+
+![AmazonReviews](https://github.com/jamesxuoi/projects/blob/master/images/amazonratingstar.gif)
 
 ### [Renewable Energy Forecasting - IoT](https://github.com/jamesxuoi/projects/tree/master/projects/Kaggle/Renewable%20Energy%20Forecasting%20w%20IoT)
 
