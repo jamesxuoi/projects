@@ -1,11 +1,10 @@
 # Welcome to James' Projects Repository
 Hello, my name is [James Xuoi](https://www.linkedin.com/in/james-xuoi/). I'm recently a Junior Data Scientist and Data Science Trainer @ Institute of Data. I'm currently upskilling to take my career into the next level, which is to become a Computer Vision/NLP Engineer.
 
-## Repository's Description
+## Projects
+
 This public repository is mainly used to store my most recent Data Science and Machine Learning projects from works including current works, internship, volunteering works as well as Hackathon projects.
 
-
-## Projects
 ### [Image Detection with YOLO (GovHack 2019)]
 ()
 
