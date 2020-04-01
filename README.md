@@ -32,7 +32,7 @@ This project will help you to understand and get skilled at image processing and
 
 ### [Financial data analysis and visualisations @ KPMG](https://github.com/jamesxuoi/projects/tree/master/projects/KPMG)
 
-### [Slack Messages scraping](https://github.com/jamesxuoi/projects/tree/master/projects/Institute%20of%20Data/Twitter%20Web%20Scapping)
+### [Slack Messages scraping](https://github.com/jamesxuoi/projects/blob/master/images/post-2.jpg)
 
 ### [Twitter Web scraping](https://github.com/jamesxuoi/projects/tree/master/projects/Institute%20of%20Data/Twitter%20Web%20Scapping)
 
