@@ -11,6 +11,8 @@ This public repository is mainly used to store my most recent Data Science and M
 
 [Natual Language Processing - Speech Recognition @ Institute of Data](https://github.com/jamesxuoi/projects/tree/master/projects/Speech%20Recognition)
 
+![TinyML](https://github.com/jamesxuoi/projects/blob/master/images/post-1.jpg)
+
 [Natual Language Processing - Text Analysis and Classification for online reviews @ Amazon](https://github.com/jamesxuoi/projects/tree/master/projects/Amazon%20Online%20Reviews%20Analysis%20and%20Classification)
 
 [Renewable Energy Forecasting with IoT  @ Kaggle](https://github.com/jamesxuoi/projects/tree/master/projects/Kaggle/Renewable%20Energy%20Forecasting%20w%20IoT)
