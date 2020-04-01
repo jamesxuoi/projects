@@ -20,7 +20,7 @@ This project will help you to understand and get skilled at image processing and
 
 ### [Natual Language Processing - Speech Recognition](https://github.com/jamesxuoi/projects/tree/master/projects/Speech%20Recognition)
 
-![TinyML](https://github.com/jamesxuoi/projects/blob/master/images/post-1.jpg)
+![TinyML](https://github.com/jamesxuoi/projects/blob/master/images/speech%20recognition.gif)
 
 ### [Natual Language Processing -  Converting Amazon Reviews into Rating Stars](https://github.com/jamesxuoi/projects/tree/master/projects/Amazon%20Online%20Reviews%20Analysis%20and%20Classification)
 
