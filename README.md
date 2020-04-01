@@ -1,4 +1,4 @@
-# Welcome to Python Developer Projects Repository
+# Welcome to Python Developer Repository
 
 My name is James Xuoi. I’m a Machine Learning Engineer, Data Scientist, Software Developer and Data Science Trainer, who has been working in AI, Data Science and Software development for almost 2 years.
 
