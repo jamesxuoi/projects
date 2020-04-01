@@ -13,14 +13,7 @@ I hope you enjoy the materials!
 I have listed my projects in most recent order. If you are beginner with zero programming skill. Please start from the bottom to the top.
 
 ### [Image Detection with YOLO]()
-=======
-## Projects
-
-This public repository is mainly used to store my most recent Data Science and Machine Learning projects from works including current works, internship, volunteering works as well as Hackathon projects.
-
-### [Image Detection with YOLO (GovHack 2019)]
-()
->>>>>>> 6b6594cb6eb11954cab1d70b698a17fd47ae2794
+wdjwjdhwkdjw
 
 ### [Natual Language Processing - Speech Recognition @ Institute of Data](https://github.com/jamesxuoi/projects/tree/master/projects/Speech%20Recognition)
 
