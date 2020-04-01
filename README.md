@@ -28,11 +28,20 @@ This project will help you to understand and get skilled at image processing and
 
 ### [Renewable Energy Forecasting - IoT](https://github.com/jamesxuoi/projects/tree/master/projects/Kaggle/Renewable%20Energy%20Forecasting%20w%20IoT)
 
+![Energy](https://github.com/jamesxuoi/projects/blob/master/images/energy%20forcasting.png)
+
 ### [Development plan for ATMs @ ANZ](https://github.com/jamesxuoi/projects/tree/master/projects/ANZ%20development%20plan%20for%20ATMs)
+
+![ANZ](https://github.com/jamesxuoi/projects/blob/master/images/ANZ.png)
 
 ### [Financial data analysis and visualisations @ KPMG](https://github.com/jamesxuoi/projects/tree/master/projects/KPMG)
 
+
 ### [Slack Messages scraping](https://github.com/jamesxuoi/projects/blob/master/images/post-2.jpg)
 
+![Slack](https://github.com/jamesxuoi/projects/blob/master/images/amazonratingstar.gif)
+
 ### [Twitter Web scraping](https://github.com/jamesxuoi/projects/tree/master/projects/Institute%20of%20Data/Twitter%20Web%20Scapping)
+
+![Twitter](https://github.com/jamesxuoi/projects/blob/master/images/twitter.png)
 
