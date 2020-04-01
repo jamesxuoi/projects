@@ -1,5 +1,6 @@
 # Welcome to Python Developer Projects Repository
 
+<<<<<<< HEAD
 My name is James Xuoi. I’m a Machine Learning Engineer, Data Scientist, Software Developer and Data Science Trainer, who has been working in AI, Data Science and Software development for almost 2 years.
 
 I love the idea of building an end to end AI project from data mining to deploying the optimised machine learning model into production (eg. ML software, AI embedded systems). Therefore, I started to work as a full-time Machine Learning Engineer and part-time Software Developer for multiple tech startups.
@@ -13,6 +14,14 @@ I hope you enjoy the materials!
 I have listed my projects in most recent order. If you are beginner with zero programming skill. Please start from the bottom to the top.
 
 ### [Image Detection with YOLO]()
+=======
+## Projects
+
+This public repository is mainly used to store my most recent Data Science and Machine Learning projects from works including current works, internship, volunteering works as well as Hackathon projects.
+
+### [Image Detection with YOLO (GovHack 2019)]
+()
+>>>>>>> 6b6594cb6eb11954cab1d70b698a17fd47ae2794
 
 ### [Natual Language Processing - Speech Recognition @ Institute of Data](https://github.com/jamesxuoi/projects/tree/master/projects/Speech%20Recognition)
 
