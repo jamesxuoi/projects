@@ -12,8 +12,12 @@ I hope you enjoy the materials!
 
 I have listed my projects in most recent order. If you are beginner with zero programming skill. Please start from the bottom to the top.
 
-### [Image Detection with YOLO]()
-wdjwjdhwkdjw
+### [Image Detection with YOLO](https://github.com/jamesxuoi/projects/tree/master/projects/Image%20detection%20YOLO)
+![ImageDetection](https://github.com/jamesxuoi/projects/blob/master/images/imagedetection.gif)
+
+This project will help you to understand and get skilled at image processing and video processing with YOLO and OpenCV. Below is the result of the final product, which is detecting objects in a car racing video by a script running on Atom IDE.
+
+![ImageDetection](https://github.com/jamesxuoi/projects/blob/master/images/carvideodetection.gif)
 
 ### [Natual Language Processing - Speech Recognition @ Institute of Data](https://github.com/jamesxuoi/projects/tree/master/projects/Speech%20Recognition)
 
