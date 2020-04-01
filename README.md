@@ -2,7 +2,7 @@
 
 My name is James Xuoi. I’m a Machine Learning Engineer, Data Scientist, Software Developer and Data Science Trainer, who has been working in AI, Data Science and Software development for almost 2 years.
 
-I love the idea of building an end to end AI project from data mining to deploying the optimised machine learning model into production (eg. ML software, AI embedded systems). Therefore, I started to work as a full-time Machine Learning Engineer and part-time Software Developer for multiple tech startups.
+I love the idea of building an end to end AI project from data mining to deploying the optimised machine learning model into production (eg. ML software, AI embedded systems ). Therefore, I started to work as a full-time Machine Learning Engineer and part-time Software Developer for multiple tech startups.
 
 Beside working, I frequently attend various Hackathon events to enhance my programming skills as well as to learn from talented engineers that work at Top Tech companies (eg. FAANG). In return, I also love helping others, therefore I created this repository in order to share all my hands-on projects of web scraping, data analysis, machine learning, deep learning, NLP, computer vision, web app and desktop app development in Python and I hope that this could help enhancing your programming skills. You can find detail of instructions for each project at the [Python Developer Blog](https://jamesxuoi.github.io). 
 
