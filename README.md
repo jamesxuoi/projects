@@ -1,6 +1,6 @@
 # Welcome to James Repository
 
-My name is James Xuoi. I’m a Hardware Engineer, who has big passion with Machine learning algorithms and Cloud architect.
+My name is James Xuoi. I’m a Hardware Engineer, who has big passion with Machine learning algorithms and Cloud infrastructure.
 
 I love the idea of building an end to end tinyML (embedded hardware with built-in machine learning models) project from pcb design to deploying the optimised machine learning model into production (eg. ML software, AI embedded systems devices). Therefore, I started to work as a full-time Hardware and Machine Learning Engineer in medical field.
 
